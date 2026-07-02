@@ -7,7 +7,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: "AIzaSyA3QquoX8F-Ln7ReRh1wHGTBHSjnO6WFJc",
+    apiKey:"",
     appId: "1:465014837018:android:ce62a02e04e511bbc6a6a3",
     messagingSenderId: "465014837018",
     projectId: "mental-health-app-c96cb",
